@@ -23,7 +23,7 @@
     "publish-launcher": "npm run launcher:publish"
   },
   "dependencies": {
-    "archiver": "^5.3.2",
+    "archiver": "^8.0.0",
     "cors": "^2.8.5",
     "discord.js": "^14.26.3",
     "dotenv": "^16.4.5",
